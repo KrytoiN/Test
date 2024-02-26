@@ -1,0 +1,13 @@
+E:\учёба\Проект\Geometry\Geometry\bin\Debug\net8.0\Geometry.deps.json
+E:\учёба\Проект\Geometry\Geometry\bin\Debug\net8.0\Geometry.dll
+E:\учёба\Проект\Geometry\Geometry\bin\Debug\net8.0\Geometry.pdb
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfoInputs.cache
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfo.cs
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.csproj.CoreCompileInputs.cache
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.dll
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\refint\Geometry.dll
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.pdb
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\ref\Geometry.dll
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.csproj.AssemblyReference.cache
+E:\учёба\Проект\Geometry\Geometry\obj\Debug\net8.0\Geometry.csproj.CopyComplete
